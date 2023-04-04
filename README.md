@@ -2,11 +2,19 @@
 
 Welcome to my portfolio! I'm a software developer with a passion for creating innovative and efficient solutions to complex problems. With experience in Java, Flutter, and web development, I am dedicated to delivering high-quality software that meets the needs of users and clients alike.
 
-<img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/93010972?s=400&u=4dbad66c1894447d0edbb4c4e0fa25a1ca7583d6&v=4">
 
 ## Skills
 
-#### Languages:
+#### 🧰 Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+
+
+
+
 - C#
 - Java
 - Python
@@ -23,7 +31,6 @@ Welcome to my portfolio! I'm a software developer with a passion for creating in
 - Object-oriented programming
 - User interface design and development
 
-<img align="left" width="200" height="200" src="https://media-exp1.licdn.com/dms/image/C5603AQGZ3qSm_IUKlQ/profile-displayphoto-shrink_800_800/0/1608015859219?e=1644451200&v=beta&t=rI-fNtjx-TFm48cIyv20zrzmWmZYjKtJFYmllmBnCZQ">
 
 ## Contact
 
