@@ -3,13 +3,12 @@
 Welcome to my portfolio! I'm a software developer with a passion for creating innovative and efficient solutions to complex problems. With experience in Java, Flutter, and web development, I am dedicated to delivering high-quality software that meets the needs of users and clients alike.
 
 
-## Skills
-
-#### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
 
 
 
@@ -31,8 +30,19 @@ Welcome to my portfolio! I'm a software developer with a passion for creating in
 - Object-oriented programming
 - User interface design and development
 
+<hr>
 
-## Contact
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a href="mailto:contact.bryanmurphy@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/bryan-murphy02/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+</p>
+
+<hr>
+
+
+## 📫Contact
 
 - Email: [contact.bryanmurphy@gmail.com](mailto:contact.bryanmurphy@gmail.com)
 - LinkedIn: [Bryan Murphy LinkedIn](https://www.linkedin.com/in/bryan-murphy02/)
