@@ -24,8 +24,10 @@ Welcome to my portfolio! I'm a software developer with a passion for creating in
 
 
 ## Contact
-###[Email](contact.bryanmurphy@gmail.com)
-###[LinkedIn]([contact.bryanmurphy@gmail.com](https://www.linkedin.com/in/bryan-murphy02/))
+
+- Email: [contact.bryanmurphy@gmail.com](mailto:contact.bryanmurphy@gmail.com)
+- LinkedIn: [Bryan Murphy LinkedIn](https://www.linkedin.com/in/bryan-murphy02/)
+
 
 
 Thank you for taking the time to review my portfolio!
