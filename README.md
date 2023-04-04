@@ -9,9 +9,19 @@ Welcome to my portfolio! I'm a software developer with a passion for creating in
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="icons/vscode.png" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="icons/flutter.png" />
+<img align="left" alt="dotNet" width="30px" style="padding-right:10px;" src="icons/dotnet.png" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="icons/csharp.png" />
 
 
 
+<!--Things to add:
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
+<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>-->
 
 
 - C#
