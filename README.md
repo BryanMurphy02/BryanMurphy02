@@ -21,11 +21,11 @@
     
   </p>
   
-  <img align:src="https://github-readme-stats.vercel.app/api?username=BryanMurphy02&show_icons=true&theme=gotham">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02">
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanMurphy02&show_icons=true&theme=gotham">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02">
+
 
 </hr>
-
 
 
 
