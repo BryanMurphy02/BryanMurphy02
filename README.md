@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 style="font-size: 80px; color: #0077B5; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Bryan Murphy</h1>
+  <h1 align="center" style="font-size: 72px; color: #0077B5; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; text-shadow: 2px 2px #CCCCCC;">Bryan Murphy</h1>
   <h2>🧰 Languages and Tools</h2>
   <p>
     <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
