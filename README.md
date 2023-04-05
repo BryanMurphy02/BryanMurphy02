@@ -6,14 +6,11 @@ Welcome to my portfolio! I'm a software developer with a passion for creating in
 ## 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="icons/vscode.png" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="icons/flutter.png" />
 <img align="left" alt="dotNet" width="30px" style="padding-right:10px;" src="icons/dotnet.png" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="icons/csharp.png" />
-<img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="icons/eclipse-image.png" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="icons/Oracle_SQL_Developer-Logo.png" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="icons/flutter.png" />
 
 
 
@@ -37,12 +34,6 @@ Welcome to my portfolio! I'm a software developer with a passion for creating in
 </p>
 
 <hr>
-
-
-## 📫Contact
-
-- Email: [contact.bryanmurphy@gmail.com](mailto:contact.bryanmurphy@gmail.com)
-- LinkedIn: [Bryan Murphy LinkedIn](https://www.linkedin.com/in/bryan-murphy02/)
 
 ## Thank You
 
