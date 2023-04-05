@@ -27,6 +27,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BryanMurphy02&repo=github-readme-stats">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BryanMurphy02&repo=github-readme-stats)]
 
 
 
