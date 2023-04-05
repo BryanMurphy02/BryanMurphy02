@@ -12,6 +12,8 @@ Welcome to my portfolio! I'm a software developer with a passion for creating in
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="icons/flutter.png" />
 <img align="left" alt="dotNet" width="30px" style="padding-right:10px;" src="icons/dotnet.png" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="icons/csharp.png" />
+<img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="icons/eclipse-image.png" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="icons/Oracle_SQL_Developer-Logo.png" />
 
 
 
@@ -23,21 +25,7 @@ Welcome to my portfolio! I'm a software developer with a passion for creating in
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>-->
 
 
-- C#
-- Java
-- Python
-- HTML & CSS
 
-#### Software:
-- Eclipse
-- Visual Studio Code
-- Visual Studio
-- Oracle SQL Developer
-
-#### Technical Skills:
-- Web development using .NET framework, HTML, CSS, and C#
-- Object-oriented programming
-- User interface design and development
 
 <hr>
 
