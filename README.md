@@ -2,6 +2,7 @@
 
 <hr>
 
+  <h1 align="center">Bryan Murphy</h1>
   <h2  align="center">🧰 Languages and Tools</h2>
   <p align="center">
     <img alt="Java" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
