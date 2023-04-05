@@ -21,14 +21,17 @@
     
   </p>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=BryanMurphy02&show_icons=true&theme=gotham">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02">
+
 
 
 </hr>
 
 
+<hr align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=BryanMurphy02&show_icons=true&theme=gotham">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02">
 
+</hr>
 
 
 
