@@ -7,13 +7,13 @@ Welcome to my portfolio! I'm a software developer with a passion for creating in
 
   <h2  align="center">🧰 Languages and Tools</h2>
   <p align="center">
-    <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img align="left" alt="dotNet" width="30px" style="padding-right:10px;" src="icons/dotnet.png" />
-    <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="icons/csharp.png" />
-    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="icons/flutter.png" />
+    <img alt="Java" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img alt="Python" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img alt="dotNet" width="30px"src="icons/dotnet.png" />
+    <img alt="C#" width="30px"src="icons/csharp.png" />
+    <img alt="HTML" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img alt="CSS" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img alt="Flutter" width="30px"src="icons/flutter.png" />
   </p>
 
 </hr>
