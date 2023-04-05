@@ -3,23 +3,21 @@
 Welcome to my portfolio! I'm a software developer with a passion for creating innovative and efficient solutions to complex problems. With experience in Java, Flutter, and web development, I am dedicated to delivering high-quality software that meets the needs of users and clients alike.
 
 
-## 🧰 Languages and Tools
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="dotNet" width="30px" style="padding-right:10px;" src="icons/dotnet.png" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="icons/csharp.png" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="icons/flutter.png" />
+<hr>
 
+  <h2  align="center">🧰 Languages and Tools</h2>
+  <p align="center">
+    <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img align="left" alt="dotNet" width="30px" style="padding-right:10px;" src="icons/dotnet.png" />
+    <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="icons/csharp.png" />
+    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="icons/flutter.png" />
+  </p>
 
+</hr>
 
-<!--Things to add:
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>-->
 
 
 
