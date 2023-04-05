@@ -1,6 +1,3 @@
-# Bryan Murphy
-
-Welcome to my portfolio! I'm a software developer with a passion for creating innovative and efficient solutions to complex problems. With experience in Java, Flutter, and web development, I am dedicated to delivering high-quality software that meets the needs of users and clients alike.
 
 
 <hr>
@@ -25,6 +22,3 @@ Welcome to my portfolio! I'm a software developer with a passion for creating in
 
 </hr>
 
-## Thank You
-
-Thank you for taking the time to review my portfolio! If you have any questions or would like to discuss potential projects or job opportunities, please don't hesitate to reach out to me via email or LinkedIn. I look forward to hearing from you!
