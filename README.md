@@ -22,7 +22,10 @@
   </p>
   
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BryanMurphy02&show_icons=true&theme=gotham">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02&hide=Dart,CSS,ShaderLab,HLSL&langs_count=3&layout=compact">
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02&hide=Dart,CSS,ShaderLab,HLSL&langs_count=3&layout=compact&access_token=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">
+
+<!--
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02&hide=Dart,CSS,ShaderLab,HLSL&langs_count=3&layout=compact">-->
 
 
 </hr>
