@@ -22,12 +22,12 @@
   </p>
   
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BryanMurphy02&show_icons=true&theme=gotham">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02&hide=&langs_count=4&layout=compact">
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02&layout=donut&langs_count=4&hide=Dart,HTML,CSS,Swift,Ruby,Objective-c,Kotlin">
 
 
 </hr>
 
-
+<!--<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02&hide=&langs_count=4&layout=compact&count_private=true">-->
 
 
 
