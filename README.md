@@ -11,36 +11,7 @@
     
   </p>
   
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BryanMurphy02&show_icons=true&theme=gotham">
-  <img align="left" width="47%" src="https://github-readme-stats-bryanmurphy02.vercel.app//api/top-langs/?username=BryanMurphy02&layout=donut&langs_count=4&hide=Dart,HTML,CSS,Swift,Ruby,Objective-c,Kotlin,XSLT,PLSQL,ShaderLab,Shell,JavaScript,HLSL,Mathematica,Clojure,Batchfile">
 
 
 </hr>
-
-<!--<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02&layout=donut&langs_count=4&hide=Dart,HTML,CSS,Swift,Ruby,Objective-c,Kotlin">-->
-
-<!--<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02&hide=&langs_count=4&layout=compact&count_private=true">-->
-
-
-
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMurphy02">-->
-
- 
-
-<!--https://ileriayo.github.io/markdown-badges/-->
-
-<!--
-**BryanMurphy02/BryanMurphy02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
