@@ -2,16 +2,6 @@
 <hr>
 
   <h1 align="center">Bryan Murphy</h1>
-  <h2  align="center">🧰 Languages and Tools</h2>
-  <p align="center">
-    <img alt="Java" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img alt="Python" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img alt="dotNet" width="30px"src="icons/dotnet.png" />
-    <img alt="C#" width="30px"src="icons/csharp.png" />
-    <img alt="HTML" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img alt="CSS" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img alt="Flutter" width="30px"src="icons/flutter.png" />
-  </p>
 
   <h2  align="center">📫 Reach me on</h2>
   <p align="center">
